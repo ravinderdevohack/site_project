@@ -1,2 +1,12 @@
-body: {bgcolor: red
-};
+body{
+
+	background-color: lightpink;
+}
+
+.image{
+	display: block;
+	margin: auto;
+	
+
+
+}
